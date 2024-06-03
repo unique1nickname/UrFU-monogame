@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxwPXIEJymHljdgBJl9IseVdZx92b69XR4mXXllabsXc8oSQIA3WGOXOSfyw4w+2QwcmaXUzyO7C+8I6oGJzhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Савелий\\Documents\\GitHub\\UrFU-monogame\\MyGame\\MyGame\\MyGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Савелий\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Савелий\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

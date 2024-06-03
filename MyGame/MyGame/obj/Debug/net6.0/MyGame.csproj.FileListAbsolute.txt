@@ -1,0 +1,76 @@
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\block.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\mob1.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MyGame.exe
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MyGame.deps.json
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MyGame.runtimeconfig.json
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MyGame.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MyGame.pdb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.AssemblyReference.cache
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfoInputs.cache
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfo.cs
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.CoreCompileInputs.cache
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.CopyComplete
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.dll
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\refint\MyGame.dll
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.pdb
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
+C:\C# files\MyGame\MyGame\obj\Debug\net6.0\ref\MyGame.dll
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\spaceship.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\Arial.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\PlayerBullet1.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet1.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet2.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet3.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\gameover.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\background.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\Remaster-Arrange Bad Apple.ogg
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\Remaster-Arrange Bad Apple.xnb
+C:\C# files\MyGame\MyGame\bin\Debug\net6.0\Content\heart.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\Arial.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\background.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\block.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet1.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet2.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\EnemyBullet3.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\gameover.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\heart.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\mob1.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\PlayerBullet1.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\Remaster-Arrange Bad Apple.ogg
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\Remaster-Arrange Bad Apple.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\Content\spaceship.xnb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MyGame.exe
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MyGame.deps.json
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MyGame.runtimeconfig.json
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MyGame.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MyGame.pdb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.AssemblyReference.cache
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfoInputs.cache
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfo.cs
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.CopyComplete
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\refint\MyGame.dll
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.pdb
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
+C:\Users\Савелий\Documents\GitHub\UrFU-monogame\MyGame\MyGame\obj\Debug\net6.0\ref\MyGame.dll
